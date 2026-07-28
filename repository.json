@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-metadata-schema",
+  "description": "Privacy-safe local metadata schemas and mock APIs for Privacy Pump development.",
+  "maturity": "Local-only reference",
+  "network": "Local development only",
+  "topics": ["privacy-pump", "privacy", "postgresql", "security", "localnet"],
+  "visibility": "public-after-verification"
+}
